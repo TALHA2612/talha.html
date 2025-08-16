@@ -1,39 +1,4 @@
-marquee{
-color:white;
-}
-div{
-    background-color:black;
-    border-radius:10px;
-    radius-color: yellow;
- padding:6px;
-}
-h3{
-    text-align: center;
-    color: yellow;
-}
-h5{
-    color: yellow;
-    text-align: center;
-}
 body{
-background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9XRmo4ow_1HWjrKMjyyJGpLHgneROtvMLS68aiOblVkgwfGkZLQekgfI&s=10);
- background-color:grey;
- text-align: center;
- line-spacing:0px;
-}
-a{
-    text-decoration:none;
-    color:yellow;
-    border-radius:3px;
-    margin-bottum:10px;
-    background-color:black;
-    text-align: center;
+background-color:green;
 
 }
-
-  img{
-  
-                        border-radius:12px;
-                        border-color:black;
-                        
-                     }
