@@ -1,4 +1,9 @@
 body{
-background-color:green;
+background-color:Gold;
 
+}
+div{
+background-color:Brown;
+border-radius:10px;
+padding:1px;
 }
