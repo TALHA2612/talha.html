@@ -12,7 +12,7 @@ label{
 color:white;
 text-align: center;
 }
-input{
+.R{
 text-align: center;
 width:80%;
 }
@@ -23,3 +23,14 @@ marquee {
 color:#800000;}
 checkbox{
 text:;}
+.T5{
+    color:#800000;
+    text-align:left corner;
+}
+.Tt{
+    color:#800000;
+}
+h1{
+    text-align: center;
+    color:#800000;
+}
