@@ -14,10 +14,12 @@ text-align: center;
 }
 input{
 text-align: center;
-width:100%;
+width:80%;
 }
 .T2{
 color:#800000;
 }
 marquee {
 color:#800000;}
+checkbox{
+text:;}
