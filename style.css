@@ -4,7 +4,7 @@ background-color:beige;
 
 }
 div{
-background-color:rgb(150,150,204);
+background-color:rgb(217,217,217);
 border-radius:10px;
 padding:1px;
 }
@@ -17,20 +17,20 @@ text-align: center;
 width:80%;
 }
 .T2{
-color:#800000;
+color:rgb(217,217,217);
 }
 marquee {
-color:#800000;}
+color:rgb(217,217,217);}
 checkbox{
 text:;}
 .T5{
-    color:#800000;
+    color:rgb(217,217,217);
     text-align:left corner;
 }
 .Tt{
-    color:#800000;
+    color:rgb(217,217,217);
 }
 h1{
     text-align: center;
-    color:#800000;
+    color:rgb(217,217,217);
 }
